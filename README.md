@@ -9,7 +9,8 @@ This is a battery indicator app which is used to know battery percentage of the 
 - JAVASCRIPT
 
 #### Steps to Use:
-
+**LINK:**
+https://kumarjeeban.github.io/Battery-life/
 ---
 
 - Download or clone the repository
